@@ -80,15 +80,15 @@ El codigo entre ===== y >>>> es lo que existe en la version remota
 
 ## 6. Algunos ejercicios online
 
-![](<images/ej1.png>)
+![](<imagenes/ej1.png>)
 
-![](<images/ej2.png>)
+![](<imagenes/ej2.png>)
 
-![](<images/ej3.png>)
+![](<imagenes/ej3.png>)
 
-![](<images/ej4.png>)
+![](<imagenes/ej4.png>)
 
-![](<images/ejcompletados.png>)
+![](<imagenes/ejcompletados.png>)
 
 Muestra de que los ejercicios estan hechos.
 
