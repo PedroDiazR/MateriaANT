@@ -1,4 +1,4 @@
-# Trabajo Práctico N°1:
+# Trabajo Práctico N°1: Sistemas de control de versiones
 ---
 ## 1. Instalar Git
 
